@@ -1,0 +1,50 @@
+body .pad  {
+	padding-left: 250px;
+}
+p {
+	padding-right: 250px;
+}
+.site-head{
+	padding: 20px;
+	background-color: #777; /* серый цвет  */
+	margin: -8px;
+	color: white;
+}
+.start-txt {
+	color: ;
+}
+ul {
+	list-style: none;
+	margin: 0;
+	padding-left: 0;
+}
+a {
+	text-decoration: none;
+}
+li {display: inline;}
+header a {
+	color: white;
+}
+.h3-aside{
+	color: #777;
+}
+.site-foot{
+	padding: 25px;
+	background-color: #777; /* серый цвет  */
+	margin: -8px;
+	color: white;
+}
+footer a {
+	color: skyblue;
+}
+html {
+	font-family: Tahoma, serif;
+}
+.img1 {
+	text-align: center;
+	padding: 20px;
+}
+
+.pad a {
+	color: orange;
+}
