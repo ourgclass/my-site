@@ -78,3 +78,18 @@ html {
 .image-decor img {display: block;}
 .bold {font-weight: bold;}
 .dline {line-height: 1.5;}
+.img {
+	text-align: center;
+}
+.b1 {
+    border: 0px solid #333; /* Рамка */
+    display: inline-block;
+    padding: 5px 15px; /* Поля */
+    text-decoration: none; /* Убираем подчёркивание */
+    color: #000; /* Цвет текста */
+  }
+   .b1:hover {
+    box-shadow: 0 0 5px rgba(0,0,0,0.3); /* Тень */
+    background: black ; /* Градиент linear-gradient(to bottom, #fcf4, #e9c9) */
+    color:#a00; /*  */
+   }
